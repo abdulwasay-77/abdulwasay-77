@@ -20,8 +20,8 @@ jobs:
           TODAY=$(date +%Y-%m-%d)
 
           if [[ "$TODAY" > "$END_DATE" ]]; then
-            sed -i 's/Backend AI Engineering Intern at \*\*FlyRank AI\*\* (Jul 2026 - Present)/Backend AI Engineering Intern at **FlyRank AI** (Jul - Aug 2026, Completed)/' README.md
-            sed -i 's/\*\*Backend AI Engineering Intern - FlyRank AI\*\*/\*\*Former Backend AI Engineering Intern - FlyRank AI\*\*/' README.md
+            sed -i 's/Backend AI Engineering Intern at \*\*FlyRank AI\*\* (Jul 2026 - Present)/Completed Internship at **FlyRank AI** (Jul - Aug 2026)/' README.md
+            sed -i 's/\*\*Backend AI Engineering Intern - FlyRank AI\*\*/\*\*Completed Internship - FlyRank AI\*\*/' README.md
             sed -i 's/\*July 2026 - Present\*/\*July 2026 - August 2026\*/' README.md
           fi
 

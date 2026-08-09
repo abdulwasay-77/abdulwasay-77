@@ -4,11 +4,11 @@
 
 ### BS Computer Science Student · Application Developer
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=650&lines=Application+Developer+%7C+Java+%7C+Python+%7C+Flutter+%7C+React;Backend+Development+%7C+Python+%7C+FastAPI+%7C+Express.js;Backend+AI+Engineering+Intern+%40+FlyRank+AI;Building+Web+%26+Cross-Platform+Apps;Always+learning+something+new" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=900&lines=Application+Developer+%7C+Java+%7C+Python+%7C+Flutter+%7C+React;Backend+Development+%7C+Python+%7C+FastAPI+%7C+Express.js;Backend+AI+Engineering+Intern+%40+FlyRank+AI;Building+Web+%26+Cross-Platform+Apps;Always+learning+something+new" alt="Typing SVG" />
 
 <br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdulwasay-9922b6352/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdul-wasay-9922b6352/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wasay2810@gmail.com)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wasay2478@gmail.com)
 

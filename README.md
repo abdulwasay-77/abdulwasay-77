@@ -4,11 +4,12 @@
 
 ### BS Computer Science Student · Application Developer
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=650&lines=Application+Developer+%7C+Java+%7C+Python+%7C+Flutter;Backend+Development+%7C+Express.js+%7C+SQL;Turning+ideas+into+working+software;Always+learning+something+new" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=650&lines=Application+Developer+%7C+Java+%7C+Python+%7C+Flutter;Backend+Development+%7C+Express.js+%7C+SQL;Backend+AI+Engineering+Intern+%40+FlyRank+AI;Turning+ideas+into+working+software;Always+learning+something+new" alt="Typing SVG" />
 
 <br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdulwasay-9922b6352/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wasay2810@gmail.com)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wasay2478@gmail.com)
 
 </div>
@@ -18,12 +19,28 @@
 ## 🧑‍💻 About Me
 
 - 🎓 BS Computer Science student at **University of Wah** (2024 – 2028)
-- 💼 Currently interning at **FlyRank AI** (Jul 2026 – Present)
-- 💻 Freelance **Desktop Application Developer** on Upwork (Apr 2026 – Present)
+<!-- INTERN_STATUS_START -->
+- 💼 Backend AI Engineering Intern at **FlyRank AI** (Jul 2026 – Present)
+<!-- INTERN_STATUS_END -->
+- 💻 Freelance **Application Developer** on Upwork (Apr 2026 – Present)
 - 📍 Rawalpindi, Punjab, Pakistan
-- 📫 **wasay2478@gmail.com**
+- 📫 **wasay2810@gmail.com** · **wasay2478@gmail.com**
 
 Computer Science student with a strong interest in learning, problem solving, and self-improvement. Passionate about growth, discipline, and turning ideas into reality.
+
+<br>
+
+## 💼 Experience
+
+<!-- INTERN_ROLE_START -->
+**Backend AI Engineering Intern — FlyRank AI**
+*July 2026 – Present*
+Gaining hands-on, real-world experience in backend and AI engineering as part of the FlyRank AI team.
+<!-- INTERN_ROLE_END -->
+
+**Freelance Application Developer — Upwork**
+*April 2026 – Present*
+Building applications for clients on a freelance basis.
 
 <br>
 
@@ -92,7 +109,7 @@ Check out the full list on my <a href="https://github.com/abdulwasay-77?tab=repo
 
 ## 🏆 Top Skills
 
-`Team Collaboration` · `Application Security` · `Software Systems Engineering`
+`Team Collaboration` · `Application Security` · `Software Systems Engineering` · `Backend Development` · `Backend AI Engineering` · `API Design` · `Database Management` · `Problem Solving`
 
 <br>
 

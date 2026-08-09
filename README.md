@@ -4,7 +4,7 @@
 
 ### BS Computer Science Student · Application Developer
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=650&lines=Application+Developer+%7C+Java+%7C+Python+%7C+Flutter;Backend+Development+%7C+Express.js+%7C+SQL;Backend+AI+Engineering+Intern+%40+FlyRank+AI;Turning+ideas+into+working+software;Always+learning+something+new" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=650&lines=Application+Developer+%7C+Java+%7C+Python+%7C+Flutter+%7C+React;Backend+Development+%7C+Python+%7C+FastAPI+%7C+Express.js;Backend+AI+Engineering+Intern+%40+FlyRank+AI;Building+Web+%26+Cross-Platform+Apps;Always+learning+something+new" alt="Typing SVG" />
 
 <br>
 
@@ -68,12 +68,22 @@ Tracks subscriptions across currencies and billing cycles, flags price hikes and
 <tr>
 <td width="50%" valign="top">
 
+### 🛒 [Point-Of-Sale Inventory System](https://github.com/abdulwasay-77/Point-Of-Sale-Inventory-System)
+Full-stack web application for inventory and point-of-sale management, built on the PERN stack.
+
+`React` `Node.js` `Express` `PostgreSQL`
+
+</td>
+<td width="50%" valign="top">
+
 ### ⚙️ [ASMVision — Assembly Visualizer](https://github.com/abdulwasay-77/ASMVision-Assembly-Language-Project)
 Real-time visualization of program execution at the processor level, with pause points and adjustable playback speed.
 
 `Python` `Systems Programming`
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### 🩺 Diagno Sightai — Skin Disease Detector
@@ -96,13 +106,14 @@ Check out the full list on my <a href="https://github.com/abdulwasay-77?tab=repo
 ## 🧰 Tech Stack
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=python,flutter,java,cpp,express,fastapi,dart,git,github,vscode,androidstudio,postman,firebase" />
+<img src="https://skillicons.dev/icons?i=python,flutter,java,cpp,react,nodejs,express,fastapi,postgres,dart,git,github,vscode,androidstudio,postman,firebase" />
 </div>
 
 <br>
 
 **Languages:** Java · Python · Flutter · C++
-**Backend:** Express.js · FastAPI · SQL
+**Frontend/Web:** React · Node.js
+**Backend:** Python (FastAPI) · Express.js · SQL · PostgreSQL
 **Tools:** Git & GitHub · VS Code · Android Studio · Postman · Firebase
 
 <br>

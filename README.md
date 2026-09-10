@@ -25,7 +25,7 @@
 - 💻 Freelance **Application Developer** on Upwork (Apr 2026 – Present)
 - 📍 Rawalpindi, Punjab, Pakistan
 - 📫 **wasay2810@gmail.com** · **wasay2478@gmail.com**
-- Portfolio: **abdulwasay.dev**
+- Portfolio: <https://abdulwasay.dev>
 
 Computer Science student with a strong interest in learning, problem solving, and self-improvement. Passionate about growth, discipline, and turning ideas into reality.
 
